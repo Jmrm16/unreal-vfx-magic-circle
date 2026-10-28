@@ -1,0 +1,21 @@
+# Visual Studio / Rider
+.vs/
+*.sln
+*.vcxproj
+*.suo
+
+# Unreal Engine Builds and Cache
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# Blender Backup Files
+*.blend1
+*.blend2
+*@*.blend
+
+# OS Files
+.DS_Store
+Thumbs.db
